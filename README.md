@@ -38,5 +38,6 @@ To check its working bot has to be deployed on Heroku server. So you should have
     PUBLIC_URL
     WEATHER_TOKEN
     ```
-* Search your bot in telegram and start chat
+* Search your bot in telegram and start chat.
+
 **Search beepgolang_bot in Telegram for live example.**
