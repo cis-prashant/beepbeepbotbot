@@ -1,4 +1,4 @@
-# Beep Beep Bot
+# Beep Beep Bot (Golang)
 Create a Telegram chatbot which talks with a user and provides him/her relevant information like the weather, news and other interesting tidbits on any particular day, at a geographic location. 
 
 Basic feature of the application should include:
